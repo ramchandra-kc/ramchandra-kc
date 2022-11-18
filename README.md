@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there, I'm Ramchandra Kc 👋
 
 [Click here to go to my personal website!](https://ramchandrakc.com.np/)
