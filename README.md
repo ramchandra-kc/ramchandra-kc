@@ -1,10 +1,26 @@
-# Hi there, I'm Ramchandra K C 👋
+# Hi, I'm Ramchandra K C 👋
 
-[Click here to go to my personal website!](https://ramchandrakc.com.np/)
+🌐 https://ramchandrakc.com.np/
 
-[![Ramchandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramchandra-kc&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/ramchandra-kc)
+Based in Sydney, I’m interested in **backend development, automation, and cybersecurity**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramchandra-kc&langs_count=10&layout=compact&theme=github_dark&hide_border=true)](https://github.com/ramchandra-kc)
+I enjoy building practical tools that solve real problems, especially around:
+- automation and scripting
+- software testing workflows
+- developer tooling
+- security-related problems
 
+## Selected Work
+- Phishing website detection using machine learning  
+- LibreOffice automation for testing across versions
+- NSW Driving Test Booking Scraper
+- Dependency analysis for JavaScript projects
 
-**ramchandra-kc/ramchandra-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech
+Python • JavaScript • Shell • C++  
+Git • CLI • Jupyter • automation workflows  
+
+---
+
+I like simple, useful tools and learning through building.
+Feel free to reach out, and you have a wonderful day.
